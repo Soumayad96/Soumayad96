@@ -1,4 +1,4 @@
-[![MasterHead](https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif)
+![MasterHead](https://tenor.com/view/programmer-gif-19019116)
 <h1 align="center">Hi 👋, I'm Soumayadeep Manna</h1>
 <h3 align="center">A passionate, tech enthusiast Software Developer from West Bengal, aspiring to work in the field of Data Analytics and Machine Learning.</h3>
 
