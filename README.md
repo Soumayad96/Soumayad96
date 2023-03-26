@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+![MasterHead align="center"](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 <h1 align="center">Hi 👋, I'm Soumayadeep Manna</h1>
 <h3 align="center">A passionate, tech enthusiast Software Developer from West Bengal, aspiring to work in the field of Data Analytics and Machine Learning.</h3>
 
